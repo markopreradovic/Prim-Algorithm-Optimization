@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim Sequential", "AR Optimizacija Algoritma\AR Optimizacija Algoritma.vcxproj", "{0DD0FA4D-8710-4584-B068-BFA5A27D090F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim OpenMP", "Prim OpenMP\Prim OpenMP.vcxproj", "{27B3FE06-1783-4F2F-A30A-7A5842317874}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim OpenMPI", "Prim OpenMPI\Prim OpenMPI.vcxproj", "{711AB050-B735-43A4-8D10-B554B93CF777}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim Combo", "Prim Combo\Prim Combo.vcxproj", "{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Debug|x64.ActiveCfg = Debug|x64
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Debug|x64.Build.0 = Debug|x64
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Debug|x86.Build.0 = Debug|Win32
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Release|x64.ActiveCfg = Release|x64
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Release|x64.Build.0 = Release|x64
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Release|x86.ActiveCfg = Release|Win32
+		{0DD0FA4D-8710-4584-B068-BFA5A27D090F}.Release|x86.Build.0 = Release|Win32
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Debug|x64.ActiveCfg = Debug|x64
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Debug|x64.Build.0 = Debug|x64
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Debug|x86.ActiveCfg = Debug|Win32
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Debug|x86.Build.0 = Debug|Win32
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Release|x64.ActiveCfg = Release|x64
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Release|x64.Build.0 = Release|x64
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Release|x86.ActiveCfg = Release|Win32
+		{27B3FE06-1783-4F2F-A30A-7A5842317874}.Release|x86.Build.0 = Release|Win32
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Debug|x64.ActiveCfg = Debug|x64
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Debug|x64.Build.0 = Debug|x64
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Debug|x86.ActiveCfg = Debug|Win32
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Debug|x86.Build.0 = Debug|Win32
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Release|x64.ActiveCfg = Release|x64
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Release|x64.Build.0 = Release|x64
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Release|x86.ActiveCfg = Release|Win32
+		{711AB050-B735-43A4-8D10-B554B93CF777}.Release|x86.Build.0 = Release|Win32
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Debug|x64.ActiveCfg = Debug|x64
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Debug|x64.Build.0 = Debug|x64
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Debug|x86.Build.0 = Debug|Win32
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Release|x64.ActiveCfg = Release|x64
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Release|x64.Build.0 = Release|x64
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Release|x86.ActiveCfg = Release|Win32
+		{EE32A6F1-C104-4C61-9692-F5B9BC6B4061}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C81946-ED70-4FD3-84B0-1CE7880841DB}
+	EndGlobalSection
+EndGlobal
